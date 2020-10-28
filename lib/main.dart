@@ -246,7 +246,7 @@ class Homescreen extends StatelessWidget {
                         color: Colors.grey[850],
                         borderRadius: BorderRadius.all(Radius.circular(10))),
                     height: 80,
-                    width: 180,
+                    width: 170,
                     child: Center(
                       child: Text("0",
                           style: TextStyle(fontSize: 40, color: Colors.white)),
